@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Database",
+    "\\app\\Entities",
+    "\\app\\Models",
+    "\\app\\Views",
+    "\\app\\Views\\Home",
+    "\\app\\Views\\Layout",
+    "\\app\\Views\\Usuarios",
+    "\\public\\recursos"
+  ],
+  "SelectedNode": "\\app\\Entities\\Usuario.php",
+  "PreviewInSolutionExplorer": false
+}
